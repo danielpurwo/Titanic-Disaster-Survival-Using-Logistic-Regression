@@ -1,2 +1,2 @@
 # Titanic-Disaster-Survival-Using-Logistic-Regression
-Prediction of Titanic passenger survived.
+Prediction of Titanic shipwreck passenger survived.
